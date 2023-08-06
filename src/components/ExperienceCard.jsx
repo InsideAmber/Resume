@@ -38,7 +38,7 @@ const ExperienceCard = ({
           </li>
         ))}
       </ul>
-      <div className="mt-2 flex flex-wrap justify-start xs:justify-between pb-6">
+      <div className="mt-2 flex flex-wrap justify-start pb-6">
         {techStack.map((item) => (
           <button
             key={item.id}

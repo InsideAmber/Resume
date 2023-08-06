@@ -113,22 +113,26 @@ export const experienceOneCardData = {
     },
     {
       id: 5,
-      label: 'Nodejs',
+      label: 'Nextjs',
     },
     {
       id: 6,
-      label: 'Apollo Client',
+      label: 'Nodejs',
     },
     {
       id: 7,
-      label: 'NPM',
+      label: 'Apollo Client',
     },
     {
       id: 8,
-      label: 'Azure',
+      label: 'NPM',
     },
     {
       id: 9,
+      label: 'Azure',
+    },
+    {
+      id: 10,
       label: 'Github',
     },
   ],

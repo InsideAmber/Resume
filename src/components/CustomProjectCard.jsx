@@ -26,7 +26,7 @@ const CustomProjectCard = ({
           ))}
         </ul>
       </div>
-      <div className="flex flex-wrap justify-start xs:justify-between pb-6">
+      <div className="flex flex-wrap justify-start pb-6">
         {techStack.map((item) => (
           <button
             key={item.id}
@@ -36,12 +36,12 @@ const CustomProjectCard = ({
           </button>
         ))}
       </div>
-      <div className="mt-2 flex justify-start dark:text-black">
+      <div className="mt-2 flex justify-start xs:justify-around xs:mr-8 dark:text-black">
         {exploreBtn.map((item) => (
           <a href={item.url} target="_blank" rel="noreferrer">
             <button
               key={item.id}
-              className="xs:text-xs bg-gray-100 hover:bg-grey ml-2 text-grey-darkest font-bold py-2 px-4 xs:px-1 rounded-lg inline-flex items-center"
+              className="xs:text-xs bg-white hover:bg-grey ml-2 xs:ml-0 text-grey-darkest font-bold py-2 px-4 xs:px-1 rounded-lg inline-flex items-center"
             >
               {item.icon} &nbsp;
               <span>{item.name}</span>
