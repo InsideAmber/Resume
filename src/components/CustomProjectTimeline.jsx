@@ -2,6 +2,7 @@ import React from 'react';
 import { MdWork } from 'react-icons/md';
 
 import ProjectCard from './ProjectCard';
+import CustomProjectCard from './CustomProjectCard';
 import {
   projectOneCardData,
   projectTwoCardData,
@@ -17,7 +18,7 @@ const CustomProjectTimeline = () => {
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -left-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <MdWork />
           </span>
-          <ProjectCard
+          <CustomProjectCard
             techStack={projectOneCardData.techStack}
             title={projectOneCardData.title}
             subTitle={projectOneCardData.subTitle}
@@ -31,7 +32,7 @@ const CustomProjectTimeline = () => {
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -left-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <MdWork />
           </span>
-          <ProjectCard
+          <CustomProjectCard
             techStack={projectTwoCardData.techStack}
             title={projectTwoCardData.title}
             subTitle={projectTwoCardData.subTitle}
@@ -45,7 +46,7 @@ const CustomProjectTimeline = () => {
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -left-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <MdWork />
           </span>
-          <ProjectCard
+          <CustomProjectCard
             techStack={projectThreeCardData.techStack}
             title={projectThreeCardData.title}
             subTitle={projectThreeCardData.subTitle}
@@ -59,7 +60,7 @@ const CustomProjectTimeline = () => {
           <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -left-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
             <MdWork />
           </span>
-          <ProjectCard
+          <CustomProjectCard
             techStack={projectFourCardData.techStack}
             title={projectFourCardData.title}
             subTitle={projectFourCardData.subTitle}

@@ -82,17 +82,6 @@ const App = () => {
             {/* <ExperienceTimeline theme={theme} /> */}
           </div>
         </div>
-        <div className="dark:bg-slate-600 dark:text-white pt-12 flex flex-col m-auto w-10/12 xs:w-11/12 xs:pr-2.5 bg-slate-100 rounded-xl mt-4">
-          <div className="flex ml-12 items-center xs:ml-4">
-            <h1 className="text-3xl font-semibold">
-              Freelance & Personal projects
-            </h1>
-          </div>
-          <div className="mt-8">
-            <ProjectTimeline theme={theme} />
-            {/* <CustomProjectTimeline /> */}
-          </div>
-        </div>
 
         <div className="dark:bg-slate-600 dark:text-white pt-6 flex flex-col m-auto w-10/12 xs:w-11/12 xs:pr-2.5 bg-slate-100 rounded-xl mt-4">
           <div className="flex ml-12 items-center xs:ml-4">
@@ -100,6 +89,18 @@ const App = () => {
           </div>
           <div className="xs:ml-4 ml-12 mt-4 pb-6">
             <EducationCard />
+          </div>
+        </div>
+
+        <div className="dark:bg-slate-600 dark:text-white pt-12 flex flex-col m-auto w-10/12 xs:w-11/12 xs:pr-2.5 bg-slate-100 rounded-xl mt-4">
+          <div className="flex ml-12 items-center xs:ml-4">
+            <h1 className="text-3xl font-semibold">
+              Freelance & Personal projects
+            </h1>
+          </div>
+          <div className="mt-8 ml-8">
+            {/* <ProjectTimeline theme={theme} /> */}
+            <CustomProjectTimeline />
           </div>
         </div>
 

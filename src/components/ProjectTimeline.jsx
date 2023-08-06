@@ -90,7 +90,7 @@ const ProjectTimeline = ({ theme }) => {
             color: theme ? '#fff' : '#000',
             borderTop: '2px solid rgb(16, 204, 82)',
           }}
-          date="November 2012"
+          // date="November 2012"
           iconStyle={{ background: 'rgb(16, 204, 82)', color: '#fff' }}
           icon={<FaNodeJs />}
         >
