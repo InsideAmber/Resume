@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Amber-Resume/static/css/main.b120e5cc.css",
-    "main.js": "/Amber-Resume/static/js/main.445f51f8.js",
+    "main.css": "/Amber-Resume/static/css/main.1c44258b.css",
+    "main.js": "/Amber-Resume/static/js/main.a351215b.js",
     "index.html": "/Amber-Resume/index.html",
-    "main.b120e5cc.css.map": "/Amber-Resume/static/css/main.b120e5cc.css.map",
-    "main.445f51f8.js.map": "/Amber-Resume/static/js/main.445f51f8.js.map"
+    "main.1c44258b.css.map": "/Amber-Resume/static/css/main.1c44258b.css.map",
+    "main.a351215b.js.map": "/Amber-Resume/static/js/main.a351215b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b120e5cc.css",
-    "static/js/main.445f51f8.js"
+    "static/css/main.1c44258b.css",
+    "static/js/main.a351215b.js"
   ]
 }
