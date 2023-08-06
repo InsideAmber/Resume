@@ -196,26 +196,26 @@ export const projectOneCardData = {
     },
   ],
   title: 'Share Me Social Media Application',
-  subTitle: 'It is a social media application to share and download the Images',
-  description: `Social Media application to share and download the picture. more like a
-                pinterest It was made by using Google Auth, Reactjs, and Sanity Io`,
+  subTitle:
+    'Developed a social media platform facilitating image sharing and downloading, fostering interactive content engagement.',
+  description: `Designed and built a captivating Social Media platform resembling Pinterest, allowing seamless image sharing and downloading. Leveraged Google Auth for secure user authentication, implemented with ReactJS, and utilized Sanity.io for efficient content management, showcasing a blend of modern technologies and user-centered design.`,
   featureTitle: 'Some of the Important features -',
   featureLists: [
     {
       id: 1,
-      text: 'Login and Logout using google auth',
+      text: 'Implemented secure and convenient login and logout functionality utilizing Google Auth, enhancing user accessibility and data protection within the project.',
     },
     {
       id: 2,
-      text: 'Upload the Picture by different Categories',
+      text: 'Enabled users to upload images sorted by diverse categories, enhancing content organization and user experience within the project.',
     },
     {
       id: 3,
-      text: 'Search and Download the pictures',
+      text: "Implemented efficient search functionality and seamless image downloading, optimizing user exploration and interaction with the project's visual content.",
     },
     {
       id: 4,
-      text: 'Comment on the Pictures',
+      text: "Facilitated user engagement by incorporating a seamless picture commenting feature, fostering interactive discussions and enhancing the project's social interaction aspect",
     },
   ],
   exploreBtn: [
@@ -255,17 +255,17 @@ export const projectTwoCardData = {
   ],
   title: 'Realtor',
   subTitle:
-    'This is a Nextjs website to rent and buy an apartment, villas and hotel in dubai.',
-  description: `Realtor is nextjs website developed by using rapid api to buy and rent an apartment, villas and hotel in dubai`,
+    'Created a Next.js website offering property rentals and purchases for apartments, villas, and hotels in Dubai, streamlining the real estate search experience.',
+  description: `Designed and developed the Realtor website using Next.js, seamlessly integrating with Rapid API, enabling efficient browsing and selection of apartments, villas, and hotels available for purchase and rent in Dubai. Showcased expertise in frontend development, API integration, and real estate domain knowledge to deliver a user-friendly property listing platform.`,
   featureTitle: 'Some of the Important features -',
   featureLists: [
     {
       id: 1,
-      text: 'Get all the details about all of the properties',
+      text: 'Empowered users with comprehensive property insights by implementing a feature to access detailed information about all listed properties, enhancing informed decision-making within the Realtor project.',
     },
     {
       id: 2,
-      text: 'Some cool animation and loading Features',
+      text: 'Enhanced user experience through captivating animations and seamless loading features, elevating the visual appeal and performance of the project.',
     },
   ],
   exploreBtn: [
@@ -312,28 +312,28 @@ export const projectThreeCardData = {
     },
   ],
   title: 'Memories App',
-  subTitle: 'This is a MERN application to create memories.',
+  subTitle:
+    'Crafted a MERN application dedicated to capturing and cherishing moments, providing a platform to create and store memories.',
   description: `
-  Memories App is built by using MERN(MongoDB, Express, Rectjs, Nodejs) stack which is more like social media app 
-  based on CRUD(Create, Read, Update, Delete) functionalities 
+  Developed a dynamic Memories App utilizing the MERN stack, featuring a social media-inspired platform with robust CRUD capabilities (Create, Read, Update, Delete), showcasing adeptness in full-stack development and user-centric design. 
   `,
   featureTitle: 'Some of the Important features -',
   featureLists: [
     {
       id: 1,
-      text: 'User can signin, signup and signout. also login by google',
+      text: "Implemented comprehensive user authentication features, including sign-in, sign-up, sign-out functionality, and seamless Google login, enhancing the project's user accessibility and security measures.",
     },
     {
       id: 2,
-      text: 'User can create, read, update and delete post',
+      text: 'Designed and implemented full CRUD (Create, Read, Update, Delete) functionality for user-generated posts, elevating user engagement and interaction within the project.',
     },
     {
       id: 3,
-      text: 'User can like and comment on the post',
+      text: 'Implemented interactive features allowing users to like and comment on posts, fostering dynamic user engagement and fostering a sense of community within the project.',
     },
     {
       id: 4,
-      text: 'User can search and filter the post',
+      text: 'Developed robust search and filtering capabilities for posts, empowering users to efficiently locate and access relevant content within the project.',
     },
   ],
   exploreBtn: [
@@ -384,25 +384,28 @@ export const projectFourCardData = {
     },
   ],
   title: 'Project Manager',
-  subTitle: 'This is a MERN application to manage project.',
+  subTitle:
+    'Designed a MERNG application for efficient project management, combining MongoDB, Express, React, Node.js, and GraphQL to streamline project coordination and oversight.',
   description: `
-  Project manager is built by using MERN stack based on GraphQL Api 
-  within CRUD(Create, Read, Update, Delete) functionalities. In frontend I have used Apollo client to manage state 
-  and bootstrap for UI design.
+  Engineered a robust Project Management solution using the MERNG stack, 
+  enabling seamless client addition and deletion, 
+  alongside comprehensive project management capabilities 
+  including creation, deletion, and updates. Leveraged GraphQL APIs to efficiently retrieve project details, 
+  showcasing proficiency in data manipulation and enhancing project coordination.
   `,
   featureTitle: 'Some of the Important features -',
   featureLists: [
     {
       id: 1,
-      text: 'We can add and delete client',
+      text: 'Implemented user-friendly functionality to effortlessly add and remove clients within the project, enhancing organizational efficiency and client management.',
     },
     {
       id: 2,
-      text: 'We can add, read, update and delete the project',
+      text: 'Developed a versatile project management feature allowing seamless addition, retrieval, modification, and removal of projects, optimizing workflow and project lifecycle management.',
     },
     {
       id: 3,
-      text: 'We can get the details of project',
+      text: 'Implemented a streamlined feature enabling users to retrieve comprehensive project details, enhancing decision-making and facilitating efficient project assessment.',
     },
   ],
   exploreBtn: [
