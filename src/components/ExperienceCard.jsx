@@ -25,7 +25,7 @@ const ExperienceCard = ({
           </h3>
         ) : (
           <h3 className="font-normal">
-            Crafted visually appealing and user-centric web designs that
+            Crafting visually appealing and user-centric web designs that
             seamlessly blend aesthetics with intuitive functionality.
           </h3>
         )}
