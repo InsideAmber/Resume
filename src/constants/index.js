@@ -59,9 +59,10 @@ export const experienceOneCardData = {
   title: 'Associate Reactjs Developer @Celebal Technologies',
   location: 'Jaipur, India',
   description: `
-            Implementing microsoft reactjs libraries to create microsoft teams
-            tab and building the user interface of microsoft teams chatbot
-            taskmodule. Also Creating responsive web design for all devices.
+  Contributing as a specialized frontend developer focused on ReactJS within Celebal Technologies, 
+  I consistently design and implement captivating user interfaces. 
+  Leveraging cross-functional teamwork, I ensure the seamless delivery of responsive web applications that marry design aesthetics with optimal functionality, enhancing user experiences. 
+  My commitment to clean coding practices and ongoing skill development underscores my role in delivering high-quality frontend solutions.
     `,
   list: [
     {
@@ -74,23 +75,23 @@ export const experienceOneCardData = {
     },
     {
       id: 3,
-      text: 'Building Modern user interface using latest Reactjs library',
+      text: 'Developed sleek and intuitive user interfaces using cutting-edge ReactJS libraries to enhance the user experience and visual appeal.',
     },
     {
       id: 4,
-      text: 'Implementing Microsoft Reactjs libraries to create teams tab and chatbot taskmodule UI',
+      text: 'Utilized Microsoft ReactJS libraries to seamlessly design Teams tab and Chatbot TaskModule user interfaces, contributing to a cohesive and efficient collaboration environment.',
     },
     {
       id: 5,
-      text: 'Building interactive modern reactjs dashboard for the clients using different kind of chart and graph',
+      text: 'Designed and developed an interactive and modern ReactJS dashboard for clients, integrating diverse charts and graphs to provide insightful data visualization and enhance decision-making capabilities.',
     },
     {
       id: 6,
-      text: 'Creating responsive design for all type of devices',
+      text: 'Implemented responsive design principles, ensuring seamless user experiences across various devices and screen sizes, and enhancing accessibility and usability.',
     },
     {
       id: 7,
-      text: 'Using state management tools to build strong and robust reactjs web applications',
+      text: 'Leveraged state management tools to construct robust and resilient ReactJS web applications, optimizing data flow and maintaining application stability.',
     },
   ],
   techStack: [
@@ -104,22 +105,30 @@ export const experienceOneCardData = {
     },
     {
       id: 3,
-      label: 'Redux',
+      label: 'Redux/Redux toolkit',
     },
     {
       id: 4,
-      label: 'Apollo Client',
+      label: 'React Native',
     },
     {
       id: 5,
-      label: 'NPM',
+      label: 'Nodejs',
     },
     {
       id: 6,
-      label: 'Azure',
+      label: 'Apollo Client',
     },
     {
       id: 7,
+      label: 'NPM',
+    },
+    {
+      id: 8,
+      label: 'Azure',
+    },
+    {
+      id: 9,
       label: 'Github',
     },
   ],
@@ -129,27 +138,27 @@ export const experienceTwoCardData = {
   title: 'Frontend developer Intern @Celebal Technologies',
   location: 'Jaipur, India',
   description: `
-            Implemented every tech stack that is responsible to create a beautiful UI
-            with modern and optimized code practices. Learned HTML, CSS, Javascript, Reactjs, and
-            responsive design all the way long. implemented lots of react libraries to create in demand 
-            frontend by clients.
+  Executed a comprehensive tech stack to craft captivating and modern user interfaces, 
+  employing best practices for optimized code. Proficiently acquired skills in 
+  HTML, CSS, JavaScript, and ReactJS, coupled with responsive design expertise, 
+  while leveraging various React libraries to deliver client-desired, in-demand frontends.
     `,
   list: [
     {
       id: 1,
-      text: 'Learned Frontend tech stack Including HTML, CSS, Javascript, Reactjs,Redux',
+      text: 'Acquired proficiency in the complete frontend tech stack, encompassing HTML, CSS, JavaScript, ReactJS, and Redux.',
     },
     {
       id: 2,
-      text: 'Explored and implement microsoft fluent UI libraries and material UI',
+      text: 'Explored and successfully integrated Microsoft Fluent UI libraries and Material UI components, enhancing user interface aesthetics and functionality.',
     },
     {
       id: 3,
-      text: 'Worked to create responsive microsoft teams tab using reactjs',
+      text: 'Collaborated on developing a responsive Microsoft Teams tab using ReactJS, ensuring optimal user experiences across various devices and screen sizes.',
     },
     {
       id: 4,
-      text: 'Created responsive web applications for clients',
+      text: "Contributed to the creation of responsive web applications tailored to clients' needs, delivering seamless user experiences across diverse devices and platforms",
     },
   ],
   techStack: [
